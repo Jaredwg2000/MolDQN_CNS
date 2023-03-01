@@ -1,0 +1,2 @@
+model_checkpoint_path: "vina_model-1500"
+all_model_checkpoint_paths: "vina_model-1500"
